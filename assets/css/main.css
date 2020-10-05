@@ -48,6 +48,11 @@ color: #000000;
   width: 100%;
 }
 
+.topnav-right {
+	float: right;
+	padding-left: 15px;
+}
+
 
 /* Next & previous buttons */
 .prev, .next {
